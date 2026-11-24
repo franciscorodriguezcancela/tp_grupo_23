@@ -1,0 +1,15 @@
+variable,descripcion,tipo,unidad,rango
+iso3,Código ISO de 3 letras del país (parte de la llave),Categórica,-,124 países
+country_name,Nombre del país,Categórica,-,124 categorías
+onet_soc_code,Código O*NET-SOC de la ocupación (parte de la llave),Categórica,-,923 ocupaciones
+occupation_title,Nombre de la ocupación,Categórica,-,923 categorías
+task_count,Cantidad de tareas O*NET que componen la ocupación,Numérica,tareas,5 a 54
+mean_exposure,Exposición media a la automatización de las tareas de la ocup.,Numérica,nivel 0 a 3,0 a 3
+sub_only_share,Proporción de tareas solo sustituibles (la IA reemplaza),Numérica,proporción,0 a 1
+both_share,Proporción de tareas con sustitución y aumentación a la vez,Numérica,proporción,0 a 1
+aug_only_share,Proporción de tareas solo aumentables (la IA asiste),Numérica,proporción,0 a 1
+neither_share,Proporción de tareas sin señal de sustitución ni aumentación,Numérica,proporción,0 a 1
+region,Región geográfica (Banco Mundial). Viene de countries.csv,Categórica,-,7 categorías
+ingreso,Grupo de ingreso del país (Banco Mundial). De countries.csv,Ordinal,-,5 categorías
+gdp_per_capita,PBI per cápita del país. De countries.csv,Numérica,US$ corrientes,219 a 112.895
+internet_users_pct,Población del país que usa internet. De countries.csv,Numérica,% de población,0 a 100

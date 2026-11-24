@@ -1,0 +1,13 @@
+ingreso,grupo,residuo
+Ingreso bajo,A: baja exposición,9.46
+Ingreso medio-bajo,B: exposición intermedia,6.9
+Ingreso alto,C: alta exposición,6.66
+Ingreso bajo,C: alta exposición,-5.6
+Ingreso medio-bajo,C: alta exposición,-5.02
+Ingreso alto,B: exposición intermedia,-4.39
+Ingreso alto,A: baja exposición,-3.69
+Ingreso medio-alto,C: alta exposición,2.78
+Ingreso medio-alto,A: baja exposición,-2.76
+Ingreso bajo,B: exposición intermedia,-2.06
+Ingreso medio-bajo,A: baja exposición,-1.2
+Ingreso medio-alto,B: exposición intermedia,-0.73

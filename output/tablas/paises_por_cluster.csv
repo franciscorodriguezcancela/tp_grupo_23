@@ -1,0 +1,125 @@
+country_name,ingreso,cluster3,nivel,cv
+Uganda,Ingreso bajo,A: baja exposición,0.686,0.579
+Togo,Ingreso bajo,A: baja exposición,0.683,0.593
+Mozambique,Ingreso bajo,A: baja exposición,0.652,0.595
+"Congo, Rep.",Ingreso medio-bajo,A: baja exposición,0.617,0.625
+Madagascar,Ingreso bajo,A: baja exposición,0.572,0.654
+Sudan,Ingreso bajo,A: baja exposición,0.569,0.632
+Syrian Arab Republic,Ingreso bajo,A: baja exposición,0.564,0.634
+Malawi,Ingreso bajo,A: baja exposición,0.563,0.663
+"Yemen, Rep.",Ingreso bajo,A: baja exposición,0.521,0.664
+Mali,Ingreso bajo,A: baja exposición,0.498,0.679
+Haiti,Ingreso medio-bajo,A: baja exposición,0.486,0.732
+Papua New Guinea,Ingreso medio-bajo,A: baja exposición,0.482,0.725
+Burkina Faso,Ingreso bajo,A: baja exposición,0.476,0.735
+Guinea,Ingreso medio-bajo,A: baja exposición,0.469,0.697
+"Somalia, Fed. Rep.",Ingreso bajo,A: baja exposición,0.455,0.73
+Afghanistan,Ingreso bajo,A: baja exposición,0.454,0.695
+Sierra Leone,Ingreso bajo,A: baja exposición,0.448,0.721
+"Congo, Dem. Rep.",Ingreso bajo,A: baja exposición,0.393,0.777
+Niger,Ingreso bajo,A: baja exposición,0.386,0.762
+Burundi,Ingreso bajo,A: baja exposición,0.376,0.781
+Chad,Ingreso bajo,A: baja exposición,0.363,0.808
+South Sudan,Ingreso bajo,A: baja exposición,0.173,1.099
+Uzbekistan,Ingreso medio-bajo,B: exposición intermedia,1.139,0.403
+"Venezuela, RB",Sin clasificar,B: exposición intermedia,1.118,0.429
+Guatemala,Ingreso medio-alto,B: exposición intermedia,1.094,0.426
+Pakistan,Ingreso medio-bajo,B: exposición intermedia,1.092,0.425
+Kenya,Ingreso medio-bajo,B: exposición intermedia,1.06,0.445
+Honduras,Ingreso medio-bajo,B: exposición intermedia,1.058,0.449
+Kyrgyz Republic,Ingreso medio-bajo,B: exposición intermedia,1.057,0.421
+Bolivia,Ingreso medio-bajo,B: exposición intermedia,0.989,0.448
+Bangladesh,Ingreso medio-bajo,B: exposición intermedia,0.972,0.462
+Nigeria,Ingreso medio-bajo,B: exposición intermedia,0.966,0.472
+Nicaragua,Ingreso medio-bajo,B: exposición intermedia,0.96,0.468
+Turkmenistan,Ingreso medio-alto,B: exposición intermedia,0.953,0.452
+Iraq,Ingreso medio-alto,B: exposición intermedia,0.951,0.444
+Cuba,Ingreso medio-alto,B: exposición intermedia,0.947,0.417
+Cambodia,Ingreso medio-bajo,B: exposición intermedia,0.929,0.479
+Libya,Ingreso medio-alto,B: exposición intermedia,0.898,0.482
+Senegal,Ingreso medio-bajo,B: exposición intermedia,0.891,0.497
+Ghana,Ingreso medio-bajo,B: exposición intermedia,0.879,0.48
+Cote d'Ivoire,Ingreso medio-bajo,B: exposición intermedia,0.875,0.505
+Tajikistan,Ingreso medio-bajo,B: exposición intermedia,0.869,0.49
+Zimbabwe,Ingreso medio-bajo,B: exposición intermedia,0.868,0.508
+Angola,Ingreso medio-bajo,B: exposición intermedia,0.863,0.502
+Rwanda,Ingreso bajo,B: exposición intermedia,0.859,0.503
+Zambia,Ingreso medio-bajo,B: exposición intermedia,0.814,0.519
+Nepal,Ingreso medio-bajo,B: exposición intermedia,0.769,0.533
+Myanmar,Ingreso medio-bajo,B: exposición intermedia,0.767,0.55
+Cameroon,Ingreso medio-bajo,B: exposición intermedia,0.752,0.546
+Tanzania,Ingreso medio-bajo,B: exposición intermedia,0.739,0.554
+Lao PDR,Ingreso medio-bajo,B: exposición intermedia,0.725,0.565
+Benin,Ingreso medio-bajo,B: exposición intermedia,0.72,0.575
+Ethiopia,Sin clasificar,B: exposición intermedia,0.718,0.539
+China,Ingreso medio-alto,C: alta exposición,1.659,0.305
+Singapore,Ingreso alto,C: alta exposición,1.633,0.299
+"Korea, Rep.",Ingreso alto,C: alta exposición,1.615,0.31
+Denmark,Ingreso alto,C: alta exposición,1.611,0.309
+United States,Ingreso alto,C: alta exposición,1.609,0.311
+Japan,Ingreso alto,C: alta exposición,1.607,0.31
+Netherlands,Ingreso alto,C: alta exposición,1.603,0.306
+Sweden,Ingreso alto,C: alta exposición,1.602,0.314
+Finland,Ingreso alto,C: alta exposición,1.593,0.312
+Norway,Ingreso alto,C: alta exposición,1.582,0.318
+Australia,Ingreso alto,C: alta exposición,1.574,0.314
+United Kingdom,Ingreso alto,C: alta exposición,1.573,0.32
+Germany,Ingreso alto,C: alta exposición,1.571,0.317
+Belgium,Ingreso alto,C: alta exposición,1.568,0.316
+Canada,Ingreso alto,C: alta exposición,1.561,0.32
+France,Ingreso alto,C: alta exposición,1.555,0.318
+Switzerland,Ingreso alto,C: alta exposición,1.552,0.322
+Israel,Ingreso alto,C: alta exposición,1.55,0.316
+Austria,Ingreso alto,C: alta exposición,1.546,0.321
+Puerto Rico (US),Ingreso alto,C: alta exposición,1.539,0.315
+Spain,Ingreso alto,C: alta exposición,1.533,0.322
+Slovak Republic,Ingreso alto,C: alta exposición,1.533,0.32
+"Hong Kong SAR, China",Ingreso alto,C: alta exposición,1.532,0.321
+Ireland,Ingreso alto,C: alta exposición,1.525,0.327
+Czechia,Ingreso alto,C: alta exposición,1.522,0.328
+United Arab Emirates,Ingreso alto,C: alta exposición,1.512,0.327
+Saudi Arabia,Ingreso alto,C: alta exposición,1.512,0.328
+New Zealand,Ingreso alto,C: alta exposición,1.511,0.329
+Italy,Ingreso alto,C: alta exposición,1.503,0.33
+Poland,Ingreso alto,C: alta exposición,1.498,0.331
+Portugal,Ingreso alto,C: alta exposición,1.497,0.33
+Bulgaria,Ingreso alto,C: alta exposición,1.487,0.329
+Croatia,Ingreso alto,C: alta exposición,1.485,0.325
+Russian Federation,Ingreso alto,C: alta exposición,1.482,0.337
+Kuwait,Ingreso alto,C: alta exposición,1.481,0.324
+Brazil,Ingreso medio-alto,C: alta exposición,1.477,0.337
+Hungary,Ingreso alto,C: alta exposición,1.476,0.341
+Chile,Ingreso alto,C: alta exposición,1.476,0.334
+Costa Rica,Ingreso alto,C: alta exposición,1.467,0.335
+Turkiye,Ingreso medio-alto,C: alta exposición,1.456,0.337
+Romania,Ingreso alto,C: alta exposición,1.446,0.347
+Greece,Ingreso alto,C: alta exposición,1.446,0.338
+Malaysia,Ingreso medio-alto,C: alta exposición,1.446,0.344
+Qatar,Ingreso alto,C: alta exposición,1.445,0.34
+Serbia,Ingreso medio-alto,C: alta exposición,1.443,0.337
+Belarus,Ingreso medio-alto,C: alta exposición,1.433,0.339
+Oman,Ingreso alto,C: alta exposición,1.43,0.339
+Mexico,Ingreso medio-alto,C: alta exposición,1.425,0.349
+South Africa,Ingreso medio-alto,C: alta exposición,1.418,0.353
+Argentina,Ingreso medio-alto,C: alta exposición,1.417,0.349
+Thailand,Ingreso medio-alto,C: alta exposición,1.415,0.347
+Ukraine,Ingreso medio-alto,C: alta exposición,1.387,0.366
+India,Ingreso medio-bajo,C: alta exposición,1.386,0.362
+Kazakhstan,Ingreso medio-alto,C: alta exposición,1.372,0.36
+Colombia,Ingreso medio-alto,C: alta exposición,1.365,0.354
+Azerbaijan,Ingreso medio-alto,C: alta exposición,1.362,0.351
+Viet Nam,Ingreso medio-bajo,C: alta exposición,1.343,0.36
+Indonesia,Ingreso medio-alto,C: alta exposición,1.317,0.37
+Philippines,Ingreso medio-bajo,C: alta exposición,1.317,0.373
+Jordan,Ingreso medio-bajo,C: alta exposición,1.308,0.361
+Peru,Ingreso medio-alto,C: alta exposición,1.296,0.376
+"Egypt, Arab Rep.",Ingreso medio-bajo,C: alta exposición,1.292,0.372
+Ecuador,Ingreso medio-alto,C: alta exposición,1.276,0.381
+Tunisia,Ingreso medio-bajo,C: alta exposición,1.255,0.378
+"Iran, Islamic Rep.",Ingreso medio-alto,C: alta exposición,1.254,0.39
+Dominican Republic,Ingreso medio-alto,C: alta exposición,1.249,0.383
+Morocco,Ingreso medio-bajo,C: alta exposición,1.223,0.388
+Paraguay,Ingreso medio-alto,C: alta exposición,1.21,0.386
+Algeria,Ingreso medio-alto,C: alta exposición,1.205,0.391
+El Salvador,Ingreso medio-alto,C: alta exposición,1.205,0.394
+Sri Lanka,Ingreso medio-bajo,C: alta exposición,1.161,0.411

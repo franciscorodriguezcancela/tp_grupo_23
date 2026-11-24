@@ -1,0 +1,15 @@
+modelo,termino,coef,ee_robusto,p_valor,r2,r2_ajustado,n
+M1: solo PBI,(Intercept),-0.8943,0.0868,0,0.8141,0.8126,122
+M1: solo PBI,log_gdp_per_capita,0.2319,0.0091,0,0.8141,0.8126,122
+M2: solo internet,(Intercept),0.2683,0.0402,0,0.8461,0.8449,122
+M2: solo internet,internet_users_pct,0.0129,5e-4,0,0.8461,0.8449,122
+M3: ambos,(Intercept),-0.3129,0.0882,6e-4,0.8832,0.8813,122
+M3: ambos,log_gdp_per_capita,0.1052,0.0167,0,0.8832,0.8813,122
+M3: ambos,internet_users_pct,0.0078,0.0011,0,0.8832,0.8813,122
+M3 sin influyentes,(Intercept),-0.3124,0.0802,2e-4,0.9175,0.916,115
+M3 sin influyentes,log_gdp_per_capita,0.1008,0.0143,0,0.9175,0.916,115
+M3 sin influyentes,internet_users_pct,0.0083,9e-4,0,0.9175,0.916,115
+M4: con log(PBI) al cuadrado,(Intercept),-1.314,0.6068,0.0324,0.8866,0.8837,122
+M4: con log(PBI) al cuadrado,log_gdp_per_capita,0.3376,0.1417,0.0188,0.8866,0.8837,122
+M4: con log(PBI) al cuadrado,I(log_gdp_per_capita^2),-0.0121,0.0071,0.0886,0.8866,0.8837,122
+M4: con log(PBI) al cuadrado,internet_users_pct,0.0067,0.0015,0,0.8866,0.8837,122

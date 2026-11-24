@@ -1,0 +1,6 @@
+variable,n,media,mediana,sd,cv,min,max,iqr
+mean_exposure,114452,1.161,1.143,0.607,0.523,0,3,0.913
+task_count,114452,25.84,25,8.498,0.329,5,54,13
+sustitucion_total,114452,0.381,0.345,0.264,0.694,0,1,0.416
+aumentacion_total,114452,0.264,0.231,0.204,0.773,0,1,0.305
+neither_share,114452,0.579,0.6,0.274,0.473,0,1,0.452

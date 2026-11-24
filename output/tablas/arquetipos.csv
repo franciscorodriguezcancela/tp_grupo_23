@@ -1,0 +1,10 @@
+cluster3,country_name,ingreso,nivel,cv,sustitucion,dist_centro
+A: baja exposición,Papua New Guinea,Ingreso medio-bajo,0.482,0.725,0.131,0.125
+A: baja exposición,Guinea,Ingreso medio-bajo,0.469,0.697,0.123,0.135
+A: baja exposición,Afghanistan,Ingreso bajo,0.454,0.695,0.127,0.194
+B: exposición intermedia,Libya,Ingreso medio-alto,0.898,0.482,0.302,0.09
+B: exposición intermedia,Nigeria,Ingreso medio-bajo,0.966,0.472,0.311,0.223
+B: exposición intermedia,Ghana,Ingreso medio-bajo,0.879,0.48,0.269,0.226
+C: alta exposición,Chile,Ingreso alto,1.476,0.334,0.493,0.12
+C: alta exposición,Qatar,Ingreso alto,1.445,0.34,0.483,0.124
+C: alta exposición,Greece,Ingreso alto,1.446,0.338,0.479,0.129

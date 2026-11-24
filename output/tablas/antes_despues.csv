@@ -1,0 +1,4 @@
+escenario,paises,nivel_media,nivel_sd,cv_media,cv_sd,sustitucion_media,sustitucion_sd,log_gdp_per_capita_media,log_gdp_per_capita_sd
+Base completa (124 países),124,1.148,0.399,0.441,0.148,0.375,0.145,8.811,1.55
+Sin atípicos de cv y PBI,111,1.144,0.372,0.436,0.127,0.374,0.136,8.694,1.39
+Sin faltantes de internet (122),122,1.15,0.402,0.441,0.15,0.375,0.146,8.815,1.563

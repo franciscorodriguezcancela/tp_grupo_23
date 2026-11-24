@@ -1,0 +1,4 @@
+cluster3,paises,nivel_min,nivel_medio,nivel_max,cv,sustitucion,aumentacion,sust_sobre_aum,pbi_pc_mediano,internet
+A: baja exposición,22,0.17,0.49,0.69,0.71,0.13,0.08,1.64,959.5,23.3
+B: exposición intermedia,31,0.72,0.91,1.14,0.48,0.29,0.21,1.4,2420.19,53.27
+C: alta exposición,71,1.16,1.45,1.66,0.34,0.49,0.35,1.38,20285.23,88.45
